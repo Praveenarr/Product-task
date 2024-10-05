@@ -4,8 +4,8 @@
 
 ** Starting the app  **
 
-First run npm i command in terminal 
-Then Run react app using command  ---   npm  start.
+First run npm i command in terminal...
+Then Run react app using command  ---   npm  start...
 Then start the api server using the command ---   json-server --watch ./data/db.json --port 3502.
 
 
